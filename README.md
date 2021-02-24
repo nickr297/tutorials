@@ -8,27 +8,28 @@ Different levels will be in sub branches such as Mockito-1, Mockito-2 etc.
 
 
 **SPRINGBOOT**
-springboot_unit1_1_helloworld
-springboot_unit1_2_hellopeople
 
-springboot_unit2_1_onetoone  (uses H2 database)
-springboot_unit2_1_onetoone_mysql 
-springboot_unit2_2_onetomany
+*  springboot_unit1_1_helloworld
+*  springboot_unit1_2_hellopeople
 
-pet_clinic_springboot_1
+*  springboot_unit2_1_onetoone  (uses H2 database)
+*  springboot_unit2_1_onetoone_mysql 
+*  springboot_unit2_2_onetomany
 
-database
+*  pet_clinic_springboot_1
 
-springBoot_jpa_entity_relations
+*  database
+
+*  springBoot_jpa_entity_relations
 
 ** TESTING **
-testing
+*  testing
 
 ** WEBSOCKTES **
-websockets
+*  websockets
 
 
 ** DESIGN **
-godclass
-designPatterns
+*  godclass
+*  designPatterns
 
