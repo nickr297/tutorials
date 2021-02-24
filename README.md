@@ -6,4 +6,29 @@ Each platform will be a FOLDER in this repo.
 GIT wiki will be used for documentation.
 Different levels will be in sub branches such as Mockito-1, Mockito-2 etc.
 
-See the WIKI [https://git.linux.iastate.edu/cs309/tutorials/wikis/home](https://git.linux.iastate.edu/cs309/tutorials/wikis/home)
+
+**SPRINGBOOT**
+springboot_unit1_1_helloworld
+springboot_unit1_2_hellopeople
+
+springboot_unit2_1_onetoone  (uses H2 database)
+springboot_unit2_1_onetoone_mysql 
+springboot_unit2_2_onetomany
+
+pet_clinic_springboot_1
+
+database
+
+springBoot_jpa_entity_relations
+
+** TESTING **
+testing
+
+** WEBSOCKTES **
+websockets
+
+
+** DESIGN **
+godclass
+designPatterns
+
