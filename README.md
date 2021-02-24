@@ -22,14 +22,14 @@ Different levels will be in sub branches such as Mockito-1, Mockito-2 etc.
 
 *  springBoot_jpa_entity_relations
 
-** TESTING **
+**TESTING**
 *  testing
 
-** WEBSOCKTES **
+**WEBSOCKTES**
 *  websockets
 
 
-** DESIGN **
+**DESIGN**
 *  godclass
 *  designPatterns
 
