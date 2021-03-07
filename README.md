@@ -7,6 +7,11 @@ GIT wiki will be used for documentation.
 Different levels will be in sub branches such as Mockito-1, Mockito-2 etc.
 
 
+**NAMING FORMAT:** 
+*  <area/topic>_unit<#>_<#>_<name>
+*  Example: springboot_unit1_2_hellowworld 
+
+
 **SPRINGBOOT**
 
 *  [springboot_unit1_1_basicrequest](https://git.linux.iastate.edu/cs309/tutorials/tree/springboot_unit1_1_basicrequest)
