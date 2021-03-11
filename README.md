@@ -14,7 +14,7 @@ Different levels will be in sub branches such as Mockito-1, Mockito-2 etc.
  <br/>
  
 
-**SPRINGBOOT**
+**SPRINGBOOT**  
 *UNIT-1*
 *  [springboot_unit1_1_basicrequest](https://git.linux.iastate.edu/cs309/tutorials/tree/springboot_unit1_1_basicrequest)
 *  [springboot_unit1_1_helloworld](https://git.linux.iastate.edu/cs309/tutorials/tree/springboot_unit1_1_helloworld)
@@ -34,7 +34,7 @@ Different levels will be in sub branches such as Mockito-1, Mockito-2 etc.
 *  [springboot_unit3_3_manytomany_selfrelations](https://git.linux.iastate.edu/cs309/tutorials/tree/springboot_unit3_3_manytomany_selfrelations)
 
 
-**Android**
+**Android**  
 *UNIT-1*
 * [android_tutorials_master](https://git.linux.iastate.edu/cs309/tutorials/tree/android_tutorials_master)
 
