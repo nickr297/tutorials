@@ -42,17 +42,17 @@ Different levels will be in sub branches such as Mockito-1, Mockito-2 etc.
 * [android_unit2_1_volley](https://git.linux.iastate.edu/cs309/tutorials/tree/android_unit2_1_volley) `example for: image / string / json  request calls`
 * [android_unit2_2_volley](https://git.linux.iastate.edu/cs309/tutorials/tree/android_unit2_2_volley) `tutorials (docs) for string / json  request calls `
 * [android_unit2_3_designpattern](https://git.linux.iastate.edu/cs309/tutorials/tree/android_unit2_3_designpattern) `MVC, Interfaces`
-* [android_unit2_4_Phase 1,2,3,4](https://git.linux.iastate.edu/cs309/tutorials/tree/android_unit2_4_phases)
+* [android_unit2_4_Phase 1,2,3,4](https://git.linux.iastate.edu/cs309/tutorials/tree/android_unit2_4_phases) `Example to send requests using volley(to simple URL, JSON response, and Image)`
 
 *UNIT-3*
-* [android_unit3_1_mockito_testing](https://git.linux.iastate.edu/cs309/tutorials/tree/android_unit3_1_mockito_testing)
-* [android_unit3_2_service_and_singleton](https://git.linux.iastate.edu/cs309/tutorials/tree/android_unit3_2_service_and_singleton)
+* [android_unit3_1_mockito_testing](https://git.linux.iastate.edu/cs309/tutorials/tree/android_unit3_1_mockito_testing) `Example to test android code with Mockito`
+* [android_unit3_2_service_and_singleton](https://git.linux.iastate.edu/cs309/tutorials/tree/android_unit3_2_service_and_singleton) `Example to Create a singleton class for request queue, and a listner for responses`
 
 
 **TESTING - Mockito backend and Frontend**
-*  [testing](https://git.linux.iastate.edu/cs309/tutorials/tree/testing)
-*  [springboot_unit3_4_mockito_testing](https://git.linux.iastate.edu/cs309/tutorials/tree/springboot_unit3_4_mockito_testing)
-*  [android_unit3_2_service_and_singleton](https://git.linux.iastate.edu/cs309/tutorials/tree/android_unit3_2_service_and_singleton)
+*  [testing](https://git.linux.iastate.edu/cs309/tutorials/tree/testing) `Examples to test the backend and the front end using mockito`
+*  [springboot_unit3_4_mockito_testing](https://git.linux.iastate.edu/cs309/tutorials/tree/springboot_unit3_4_mockito_testing) `Example code to test a springboot application with mockito`
+*  [android_unit3_2_service_and_singleton](https://git.linux.iastate.edu/cs309/tutorials/tree/android_unit3_2_service_and_singleton) `Example code to test an android application with mockito`
 
 **WEBSOCKTES**
 *  websockets
