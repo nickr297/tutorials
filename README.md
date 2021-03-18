@@ -36,7 +36,7 @@ Different levels will be in sub branches such as Mockito-1, Mockito-2 etc.
 
 **Android**  
 *UNIT-1*
-* [android_tutorials_master](https://git.linux.iastate.edu/cs309/tutorials/tree/android_tutorials_master)
+* [android_tutorials_master](https://git.linux.iastate.edu/cs309/tutorials/tree/android_tutorials_master) `Docs for Volley, CI/CD, Mockito and websocket`
 
 *UNIT-2*
 * [android_unit2_1_volley](https://git.linux.iastate.edu/cs309/tutorials/tree/android_unit2_1_volley) `example for: image / string / json  request calls`
