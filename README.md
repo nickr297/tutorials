@@ -59,8 +59,8 @@ Different levels will be in sub branches such as Mockito-1, Mockito-2 etc.
 *  [android_unit3_2_service_and_singleton](https://git.linux.iastate.edu/cs309/tutorials/tree/android_unit3_2_service_and_singleton) `Example code to test an android application with mockito`
 
 **WEBSOCKTES**
-*  [websockets] (https://git.linux.iastate.edu/cs309/tutorials/tree/websockets) 
-*  [websockets-2] (https://git.linux.iastate.edu/cs309/tutorials/tree/websockets-2) 
+*  [websockets](https://git.linux.iastate.edu/cs309/tutorials/tree/websockets) 
+*  [websockets-2](https://git.linux.iastate.edu/cs309/tutorials/tree/websocket-2) 
 
 
 **DESIGN**
