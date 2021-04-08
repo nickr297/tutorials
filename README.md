@@ -36,7 +36,7 @@ Different levels will be in sub branches such as Mockito-1, Mockito-2 etc.
 *  [springboot_unit3_4_mockito_testing](https://git.linux.iastate.edu/cs309/tutorials/tree/springboot_unit3_4_mockito_testing)
 
 *UNIT-4*
-*[unit4_1_websockets](https://git.linux.iastate.edu/cs309/tutorials/tree/websockets)
+* [unit4_1_websockets](https://git.linux.iastate.edu/cs309/tutorials/tree/unit4_1_websockets)
 
 **Android**  
 *UNIT-1*
@@ -55,7 +55,7 @@ Different levels will be in sub branches such as Mockito-1, Mockito-2 etc.
 * [android_unit2_4_Phase 1,2,3,4](https://git.linux.iastate.edu/cs309/tutorials/tree/android_unit2_4_phases) `Example to send requests using volley(to simple URL, JSON response, and Image)`
 
 *UNIT-4*
-*[unit4_1_websockets](https://git.linux.iastate.edu/cs309/tutorials/tree/websockets)
+* [unit4_1_websockets](https://git.linux.iastate.edu/cs309/tutorials/tree/unit4_1_websockets)
 
 
 **TESTING - Mockito backend and Frontend**
@@ -64,7 +64,7 @@ Different levels will be in sub branches such as Mockito-1, Mockito-2 etc.
 *  [android_unit3_2_service_and_singleton](https://git.linux.iastate.edu/cs309/tutorials/tree/android_unit3_2_service_and_singleton) `Example code to test an android application with mockito`
 
 **WEBSOCKETS**
-*  [unit4_1_websockets](https://git.linux.iastate.edu/cs309/tutorials/tree/websockets)
+*  [unit4_1_websockets](https://git.linux.iastate.edu/cs309/tutorials/tree/unit4_1_websockets)
 
 
 **DESIGN**
