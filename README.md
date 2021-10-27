@@ -37,7 +37,6 @@ Different levels will be in sub branches such as Mockito-1, Mockito-2 etc.
 *  [testing](https://git.linux.iastate.edu/cs309/tutorials/tree/testing) `testing examples1`
 *  [springboot_unit3_4_mockito_testing](https://git.linux.iastate.edu/cs309/tutorials/tree/springboot_unit3_4_mockito_testing)
 
-*  [Android Studio Mockito testing example](https://git.linux.iastate.edu/cs309/tutorials/-/tree/android_unit3_1_mockito_testing) `Updates: Updated java to 11, gradle to 7.0.3, android sdk to 30 and fixed mockito dependencies - should work now`
 
 *UNIT-4*
 * [unit4_1_websockets](https://git.linux.iastate.edu/cs309/tutorials/tree/unit4_1_websockets)
@@ -56,8 +55,9 @@ Different levels will be in sub branches such as Mockito-1, Mockito-2 etc.
 
 *UNIT-3*
 * [testing](https://git.linux.iastate.edu/cs309/tutorials/tree/testing) `testing examples`
-* [android_unit3_1_mockito_testing](https://git.linux.iastate.edu/cs309/tutorials/tree/android_unit3_1_mockito_testing) `Example to test android code with Mockito`
+* [android_unit3_1_mockito_testing](https://git.linux.iastate.edu/cs309/tutorials/tree/android_unit3_1_mockito_testing) `Example to test android code with Mockito. UPDATE: Updated java to 11, gradle to 7.0.3, android sdk to 30 and fixed mockito dependencies - should work now`
 * [android_unit2_4_Phase 1,2,3,4](https://git.linux.iastate.edu/cs309/tutorials/tree/android_unit2_4_phases) `Example to send requests using volley(to simple URL, JSON response, and Image)`
+
 
 *UNIT-4*
 * [unit4_1_websockets](https://git.linux.iastate.edu/cs309/tutorials/tree/unit4_1_websockets)
@@ -66,7 +66,7 @@ Different levels will be in sub branches such as Mockito-1, Mockito-2 etc.
 **TESTING - Mockito backend and Frontend**
 *  [testing](https://git.linux.iastate.edu/cs309/tutorials/tree/testing) `Examples to test the backend and the front end using mockito`
 *  [springboot_unit3_4_mockito_testing](https://git.linux.iastate.edu/cs309/tutorials/tree/springboot_unit3_4_mockito_testing) `Example code to test a springboot application with mockito`
-*  [android_unit3_2_service_and_singleton](https://git.linux.iastate.edu/cs309/tutorials/tree/android_unit3_2_service_and_singleton) `Example code to test an android application with mockito`
+*  [android_unit3_2_service_and_singleton](https://git.linux.iastate.edu/cs309/tutorials/tree/android_unit3_2_service_and_singleton) `Example code to test an android application with mockito. UPDATE: updated java to 11, gradle to 7.0.3, junit versions changed, tests fixed to work now with the latest version of Android Studio`
 
 **WEBSOCKETS**
 *  [unit4_1_websockets](https://git.linux.iastate.edu/cs309/tutorials/tree/unit4_1_websockets)
