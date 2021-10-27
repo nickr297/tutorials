@@ -37,6 +37,8 @@ Different levels will be in sub branches such as Mockito-1, Mockito-2 etc.
 *  [testing](https://git.linux.iastate.edu/cs309/tutorials/tree/testing) `testing examples1`
 *  [springboot_unit3_4_mockito_testing](https://git.linux.iastate.edu/cs309/tutorials/tree/springboot_unit3_4_mockito_testing)
 
+*  [Android Studio Mockito testing example](https://git.linux.iastate.edu/cs309/tutorials/-/tree/android_unit3_1_mockito_testing) `Updates: Updated java to 11, gradle to 7.0.3, android sdk to 30 and fixed mockito dependencies - should work now`
+
 *UNIT-4*
 * [unit4_1_websockets](https://git.linux.iastate.edu/cs309/tutorials/tree/unit4_1_websockets)
 
