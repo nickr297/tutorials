@@ -43,33 +43,33 @@ Different levels will be in sub branches such as Mockito-1, Mockito-2 etc.
 
 **Android**  
 *UNIT-1*
-* [android_tutorials_master](https://git.linux.iastate.edu/cs309/tutorials/tree/android_tutorials_master) `Docs for Volley, CI/CD, Mockito and websocket`
+* [android_tutorials_master](https://git.las.iastate.edu/cs309/tutorials/tree/android_tutorials_master) `Docs for Volley, CI/CD, Mockito and websocket`
 
 *UNIT-2*
-* [android_unit2_1_volley](https://git.linux.iastate.edu/cs309/tutorials/tree/android_unit2_1_volley) `example for: image / string / json  request calls`
-* [android_unit2_2_volley](https://git.linux.iastate.edu/cs309/tutorials/tree/android_unit2_2_volley) `tutorials (docs) for string / json  request calls `
-* [android_unit2_3_designpattern](https://git.linux.iastate.edu/cs309/tutorials/tree/android_unit2_3_designpattern) `MVC, Interfaces`
-* [android_unit3_2_service_and_singleton](https://git.linux.iastate.edu/cs309/tutorials/tree/android_unit3_2_service_and_singleton) `Example to Create a singleton class for request queue, and a listner for responses`
-*  [RoundTrip_(with_retrofit2_and_h2)](https://git.linux.iastate.edu/cs309/tutorials/-/tree/RoundTrip_(with_retrofit2_and_h2)) `Uses Retrofit2 to load all the Trivias and posts new trivias by json body and path. Video link: https://youtu.be/eUPFmgp6FKk`
+* [android_unit2_1_volley](https://git.las.iastate.edu/cs309/tutorials/tree/android_unit2_1_volley) `example for: image / string / json  request calls`
+* [android_unit2_2_volley](https://git.las.iastate.edu/cs309/tutorials/tree/android_unit2_2_volley) `tutorials (docs) for string / json  request calls `
+* [android_unit2_3_designpattern](https://git.las.iastate.edu/cs309/tutorials/tree/android_unit2_3_designpattern) `MVC, Interfaces`
+* [android_unit3_2_service_and_singleton](https://git.las.iastate.edu/cs309/tutorials/tree/android_unit3_2_service_and_singleton) `Example to Create a singleton class for request queue, and a listner for responses`
+*  [RoundTrip_(with_retrofit2_and_h2)](https://git.las.iastate.edu/cs309/tutorials/-/tree/RoundTrip_(with_retrofit2_and_h2)) `Uses Retrofit2 to load all the Trivias and posts new trivias by json body and path. Video link: https://youtu.be/eUPFmgp6FKk`
 
 
 *UNIT-3*
-* [testing](https://git.linux.iastate.edu/cs309/tutorials/tree/testing) `testing examples`
-* [android_unit3_1_mockito_testing](https://git.linux.iastate.edu/cs309/tutorials/tree/android_unit3_1_mockito_testing) `Example to test android code with Mockito. UPDATE: Updated java to 11, gradle to 7.0.3, android sdk to 30 and fixed mockito dependencies - should work now`
-* [android_unit2_4_Phase 1,2,3,4](https://git.linux.iastate.edu/cs309/tutorials/tree/android_unit2_4_phases) `Example to send requests using volley(to simple URL, JSON response, and Image)`
+* [testing](https://git.las.iastate.edu/cs309/tutorials/tree/testing) `testing examples`
+* [android_unit3_1_mockito_testing](https://git.las.iastate.edu/cs309/tutorials/tree/android_unit3_1_mockito_testing) `Example to test android code with Mockito. UPDATE: Updated java to 11, gradle to 7.0.3, android sdk to 30 and fixed mockito dependencies - should work now`
+* [android_unit2_4_Phase 1,2,3,4](https://git.las.iastate.edu/cs309/tutorials/tree/android_unit2_4_phases) `Example to send requests using volley(to simple URL, JSON response, and Image)`
 
 
 *UNIT-4*
-* [unit4_1_websockets](https://git.linux.iastate.edu/cs309/tutorials/tree/unit4_1_websockets)
+* [unit4_1_websockets](https://git.las.iastate.edu/cs309/tutorials/tree/unit4_1_websockets)
 
 
 **TESTING - Mockito backend and Frontend**
-*  [testing](https://git.linux.iastate.edu/cs309/tutorials/tree/testing) `Examples to test the backend and the front end using mockito`
-*  [springboot_unit3_4_mockito_testing](https://git.linux.iastate.edu/cs309/tutorials/tree/springboot_unit3_4_mockito_testing) `Example code to test a springboot application with mockito`
-*  [android_unit3_2_service_and_singleton](https://git.linux.iastate.edu/cs309/tutorials/tree/android_unit3_2_service_and_singleton) `Example code to test an android application with mockito. UPDATE: updated java to 11, gradle to 7.0.3, junit versions changed, tests fixed to work now with the latest version of Android Studio`
+*  [testing](https://git.las.iastate.edu/cs309/tutorials/tree/testing) `Examples to test the backend and the front end using mockito`
+*  [springboot_unit3_4_mockito_testing](https://git.las.iastate.edu/cs309/tutorials/tree/springboot_unit3_4_mockito_testing) `Example code to test a springboot application with mockito`
+*  [android_unit3_2_service_and_singleton](https://git.las.iastate.edu/cs309/tutorials/tree/android_unit3_2_service_and_singleton) `Example code to test an android application with mockito. UPDATE: updated java to 11, gradle to 7.0.3, junit versions changed, tests fixed to work now with the latest version of Android Studio`
 
 **WEBSOCKETS**
-*  [unit4_1_websockets](https://git.linux.iastate.edu/cs309/tutorials/tree/unit4_1_websockets)
+*  [unit4_1_websockets](https://git.las.iastate.edu/cs309/tutorials/tree/unit4_1_websockets)
 
 
 **DESIGN**
