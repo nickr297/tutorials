@@ -31,15 +31,15 @@ Different levels will be in sub branches such as Mockito-1, Mockito-2 etc.
 *  [RoundTrip_(with_retrofit2_and_h2)](https://git.las.iastate.edu/cs309/tutorials/-/tree/RoundTrip_(with_retrofit2_and_h2)) `Adds new Trivia questions and Answers by path and body and displays all Trivias. Video link: https://youtu.be/CEiUCDWygD0. To see how to plug into this project into MySQL watch this: https://youtu.be/hyFo1_jryL0`
 
 *UNIT-3*
-*  [springboot_unit3_1_manytomany](https://git.linux.iastate.edu/cs309/tutorials/tree/springboot_unit3_1_manytomany) `Example many-to-many relations`
-*  [springboot_unit3_2_complex_relations_example](https://git.linux.iastate.edu/cs309/tutorials/tree/springboot_unit3_2_complex_relations_example) `Example many-to-many relations + complex queries using repository + CRUDL using spring boot`
-*  [springboot_unit3_3_manytomany_selfrelations](https://git.linux.iastate.edu/cs309/tutorials/tree/springboot_unit3_3_manytomany_selfrelations) `Self Relations among entities in Spring Boot`
-*  [testing](https://git.linux.iastate.edu/cs309/tutorials/tree/testing) `testing examples1`
-*  [springboot_unit3_4_mockito_testing](https://git.linux.iastate.edu/cs309/tutorials/tree/springboot_unit3_4_mockito_testing)
+*  [springboot_unit3_1_manytomany](https://git.las.iastate.edu/cs309/tutorials/-/tree/springboot_unit3_1_manytomany) `Example many-to-many relations`
+*  [springboot_unit3_2_complex_relations_example](https://git.las.iastate.edu/cs309/tutorials/-/tree/springboot_unit3_2_complex_relations_example) `Example many-to-many relations + complex queries using repository + CRUDL using spring boot`
+*  [springboot_unit3_3_manytomany_selfrelations](https://git.las.iastate.edu/cs309/tutorials/-/tree/springboot_unit3_3_manytomany_selfrelations) `Self Relations among entities in Spring Boot`
+*  [testing](https://git.las.iastate.edu/cs309/tutorials/-/tree/testing) `testing examples1`
+*  [springboot_unit3_4_mockito_testing](https://git.las.iastate.edu/cs309/tutorials/-/tree/springboot_unit3_4_mockito_testing)
 
 
 *UNIT-4*
-* [unit4_1_websockets](https://git.linux.iastate.edu/cs309/tutorials/tree/unit4_1_websockets)
+* [unit4_1_websockets](https://git.las.iastate.edu/cs309/tutorials/-/tree/unit4_1_websockets)
 
 **Android**  
 *UNIT-1*
