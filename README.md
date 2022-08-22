@@ -16,10 +16,10 @@ Different levels will be in sub branches such as Mockito-1, Mockito-2 etc.
 
 **SPRINGBOOT**  
 *UNIT-1*
-*  [springboot_unit1_1_helloworld](https://git.linux.iastate.edu/cs309/tutorials/tree/springboot_unit1_1_helloworld) `Getting started with SpringBoot`
-*  [springboot_unit1_1_basicrequest](https://git.linux.iastate.edu/cs309/tutorials/tree/springboot_unit1_1_basicrequest) `Example to create simple GET, POST, PUT and DELETE APIs`
-*  [springboot_unit1_2_hellopeople](https://git.linux.iastate.edu/cs309/tutorials/tree/springboot_unit1_2_hellopeople) `Sending and Receiving data using GET, POST, PUT and DELETE APIs`
-*  [springboot_unit1_3_petclinic_example](https://git.linux.iastate.edu/cs309/tutorials/tree/springboot_unit1_3_petclinic_example) 
+*  [springboot_unit1_1_helloworld](https://git.las.iastate.edu/cs309/tutorials/-/tree/springboot_unit1_1_helloworld) `Getting started with SpringBoot`
+*  [springboot_unit1_1_basicrequest](https://git.las.iastate.edu/cs309/tutorials/-/tree/springboot_unit1_1_basicrequest) `Example to create simple GET, POST, PUT and DELETE APIs`
+*  [springboot_unit1_2_hellopeople](https://git.las.iastate.edu/cs309/tutorials/-/tree/springboot_unit1_2_hellopeople) `Sending and Receiving data using GET, POST, PUT and DELETE APIs`
+*  [springboot_unit1_3_petclinic_example](https://git.las.iastate.edu/cs309/tutorials/-/tree/springboot_unit1_3_petclinic_example) 
 
 
 *UNIT-2*
