@@ -43,7 +43,7 @@ Different levels will be in sub branches such as Mockito-1, Mockito-2 etc.
 
 **Android**  
 *UNIT-1*
-* [android_unit1_1_two_screen_counter] (https://git.las.iastate.edu/cs309/tutorials/-/tree/android_unit1_1_two_screen_counter) `simple two screen application for Android kickstart`
+* [android_unit1_1_two_screen_counter](https://git.las.iastate.edu/cs309/tutorials/-/tree/android_unit1_1_two_screen_counter) `simple two screen application for Android kickstart`
 
 *UNIT-2*
 * [android_unit2_1_volley](https://git.las.iastate.edu/cs309/tutorials/tree/android_unit2_1_volley) `example for: image / string / json  request calls`
